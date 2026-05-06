@@ -66,10 +66,3 @@ No keyboard required.
 
 ---
 
-## 🧠 How It Works
-
-```text
-
-
-
-Webcam → Hand Detection → Finger Tracking → Gesture Recognition → Key Press → Game Control
